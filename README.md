@@ -1,10 +1,24 @@
-- 👋 Hi, I’m @ViniciusBenevidesdaSilva
-- 👀 I’m interested in IA, Python and C#
-- 🌱 I’m currently learning IA, Python and C#
-- 💞️ I’m looking to collaborate on IA, Python and C# projects
-- 📫 How to reach me https://www.linkedin.com/in/vinicius-benevides/
+<h1>Hello there! 😄</h1>
 
-<!---
-ViniciusBenevidesdaSilva/ViniciusBenevidesdaSilva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ <div>
+  <p>
+    Meu nome é <b>Vinícius Benevides</b>, sou estudante de Engenharia de Computação na Faculdade Engenheiro Salvador Arena e Estagiário em Desenvolvimento de Sistemas na Termomecanica SP SA
+  </p>
+  
+  <p>
+    Sempre tive muito interesse por tecnologia e programação, e fico feliz em compartilhar nesse espaço meus aprendizados e estudos!
+  </p>
+  
+</div>
+
+ <div>
+  <a href="https://github.com/ViniciusBenevidesdaSilva">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ViniciusBenevidesdaSilva&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusBenevidesdaSilva&layout=compact&langs_count=7&theme=dark"/>
+</div>
+  
+##
+  
+<div> 
+    <a href="https://www.linkedin.com/in/vinicius-benevides/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>  
